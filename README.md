@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The project involves designing, building, and testing a simple multi-cycled Reduced Instruction Set Computing (RISC) processor using Verilog.
+The project involves designing, building, and testing a simple multi-cycled Reduced Instruction Set Computing (RISC) processor using Verilog. Key softwares used include **Quartus** and **ModelSim**.
 
 ![294789074-e8568911-5c61-4411-88ef-2b02c6d65ca8](https://github.com/user-attachments/assets/aa32b313-8efd-4664-84c3-b923140f381d)
 
@@ -11,7 +11,7 @@ The project involves designing, building, and testing a simple multi-cycled Redu
 
 - **RISC Processor Design:** Implements a simple RISC processor architecture.
 - **Verilog Implementation:** Written in Verilog hardware description language.
-- **Simulation and Testing:** Includes testbenches for thorough verification of the processor.
+- **Simulation and Testing:** Includes testbenches for thorough verification of the processor via ModelSim.
 - **FPGA Deployment:** Configured to run on an FPGA development board (DE1-Soc).
 
 ## Supported Instructions
