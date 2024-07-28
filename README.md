@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The project involves designing, building, and testing a simple multi-cycled Reduced Instruction Set Computing (RISC) processor using Verilog. Key softwares used include Quartus and ModelSim.
+The project involves designing, building, and testing a simple multi-cycled Reduced Instruction Set Computing (RISC) processor using SystemVerilog. Key softwares used include Quartus and ModelSim.
 
 ![294789074-e8568911-5c61-4411-88ef-2b02c6d65ca8](https://github.com/user-attachments/assets/aa32b313-8efd-4664-84c3-b923140f381d)
 
@@ -10,7 +10,7 @@ The project involves designing, building, and testing a simple multi-cycled Redu
 ## Project Features
 
 - **RISC Processor Design:** Implements a simple RISC processor architecture.
-- **Verilog Implementation:** Written in Verilog hardware description language.
+- **SystemVerilog Implementation:** Written in SystemVerilog hardware description language.
 - **Simulation and Testing:** Includes testbenches for thorough verification of the processor via ModelSim.
 - **FPGA Deployment:** Configured to run on an FPGA development board (DE1-Soc).
 
@@ -23,14 +23,14 @@ The processor can execute a variety of ARM instructions. The following diagram i
 ## Hardware Components
 
 - **FPGA Board:** DE1-SoC development board
-- **Processor Design:** Custom RISC processor implemented in Verilog
+- **Processor Design:** Custom RISC processor implemented in SystemVerilog
 - **Memory:** On-chip memory for instruction and data storage
 
 ## Software Description
 
-### Verilog Code
+### SystemVerilog Code
 
-Utilizing modularization, the processor is designed in Verilog and includes several modules for different components of the processor. The main design files are:
+Utilizing modularization, the processor is designed in SystemVerilog and includes several modules for different components of the processor. The main design files are:
 
 - `RISC_top.sv`: Top-level module for the RISC processor
 - `cpu.sv`: Central Processing Unit module
