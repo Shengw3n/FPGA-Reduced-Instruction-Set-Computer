@@ -24,19 +24,19 @@ The project involves designing, building, and testing a simple multi-cycled Redu
 The processor is designed in Verilog and includes several modules for different components of the processor. The main design files are:
 
 - `RISC_top.sv`: Top-level module for the RISC processor
-- cpu.sv: Central Processing Unit module
-- datapath.sv: Datapath module
-- alu.sv: Arithmetic Logic Unit module
-- instruction_decoder.sv: Instruction Decoder module
-- finite_state_machine.sv: Finite State Machine module
-- regfile.sv: Register File module
-- shifter.sv: Shifter module
+- `cpu.sv`: Central Processing Unit module
+- `datapath.sv`: Datapath module
+- `alu.sv`: Arithmetic Logic Unit module
+- `instruction_decoder.sv`: Instruction Decoder module
+- `finite_state_machine.sv`: Finite State Machine module
+- `regfile.sv`: Register File module
+- `shifter.sv`: Shifter module
 
 ### Testbenches
-cpu_tb.sv: Testbench for the CPU
-datapath_tb.sv: Testbench for the datapath
-RISC_top_tb.sv: Testbench for the top-level module
-RISC_check.sv: Verification module
+`cpu_tb.sv`: Testbench for the CPU
+`datapath_tb.sv`: Testbench for the datapath
+`RISC_top_tb.sv`: Testbench for the top-level module
+`RISC_check.sv`: Verification module
 
 ## Project Demonstration
 
