@@ -58,5 +58,5 @@ Utilizing modularization, the processor is designed in Verilog and includes seve
 - Expand the testbench coverage to include more edge cases and scenarios.
 
 ## Contributors
-Steven Chen, Afeef Mir Ruwayd
+Steven Chen, Mir Ruwayd Afeef
 
