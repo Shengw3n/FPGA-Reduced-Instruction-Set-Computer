@@ -33,10 +33,10 @@ The processor is designed in Verilog and includes several modules for different 
 - `shifter.sv`: Shifter module
 
 ### Testbenches
-`cpu_tb.sv`: Testbench for the CPU
-`datapath_tb.sv`: Testbench for the datapath
-`RISC_top_tb.sv`: Testbench for the top-level module
-`RISC_check.sv`: Verification module
+- `cpu_tb.sv`: Testbench for the CPU
+- `datapath_tb.sv`: Testbench for the datapath
+- `RISC_top_tb.sv`: Testbench for the top-level module
+- `RISC_check.sv`: Verification module
 
 ## Project Demonstration
 
