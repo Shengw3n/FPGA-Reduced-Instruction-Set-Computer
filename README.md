@@ -4,6 +4,9 @@
 
 The project involves designing, building, and testing a simple multi-cycled Reduced Instruction Set Computing (RISC) processor using Verilog.
 
+![294789074-e8568911-5c61-4411-88ef-2b02c6d65ca8](https://github.com/user-attachments/assets/aa32b313-8efd-4664-84c3-b923140f381d)
+
+
 ## Project Features
 
 - **RISC Processor Design:** Implements a simple RISC processor architecture.
