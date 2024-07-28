@@ -30,7 +30,7 @@ The processor can execute a variety of ARM instructions. The following diagram i
 
 ### Verilog Code
 
-The processor is designed in Verilog and includes several modules for different components of the processor. The main design files are:
+Utilizing modularization, the processor is designed in Verilog and includes several modules for different components of the processor. The main design files are:
 
 - `RISC_top.sv`: Top-level module for the RISC processor
 - `cpu.sv`: Central Processing Unit module
