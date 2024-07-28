@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The project involves designing, building, and testing a Reduced Instruction Set Computing (RISC) processor using Verilog.
+The project involves designing, building, and testing a simple multi-cycled Reduced Instruction Set Computing (RISC) processor using Verilog.
 
 ## Project Features
 
@@ -21,9 +21,9 @@ The project involves designing, building, and testing a Reduced Instruction Set 
 
 ### Verilog Code
 
-The processor is designed in Verilog and includes several modules for different components of the processor, such as the ALU, registers, and control unit. The main design files are:
+The processor is designed in Verilog and includes several modules for different components of the processor. The main design files are:
 
-- `RISC_top.sv: Top-level module for the RISC processor
+- `RISC_top.sv`: Top-level module for the RISC processor
 - cpu.sv: Central Processing Unit module
 - datapath.sv: Datapath module
 - alu.sv: Arithmetic Logic Unit module
