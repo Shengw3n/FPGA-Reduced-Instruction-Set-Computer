@@ -11,6 +11,12 @@ The project involves designing, building, and testing a simple multi-cycled Redu
 - **Simulation and Testing:** Includes testbenches for thorough verification of the processor.
 - **FPGA Deployment:** Configured to run on an FPGA development board (DE1-Soc).
 
+## Supported Instructions
+
+The processor can execute a variety of ARM instructions. The following diagram illustrates the ARM instruction encodings that the machine can run:
+![294788885-803b9642-d9c8-4102-ba90-291692835259](https://github.com/user-attachments/assets/79f892f6-46ba-4f79-8f29-117b0704b804)
+![294788895-0a883541-2534-45bb-bd96-481d11b98fd3](https://github.com/user-attachments/assets/640ce76f-16c8-49fe-a44b-0b1ef5f74b38)
+
 ## Hardware Components
 
 - **FPGA Board:** DE1-SoC development board
