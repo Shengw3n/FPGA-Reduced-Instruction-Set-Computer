@@ -11,7 +11,7 @@ The project involves designing, building, and testing a Turing Complete 16-bit R
 
 - **RISC Processor Design:** Implements a simple RISC processor architecture.
 - **SystemVerilog Implementation:** Written in SystemVerilog hardware description language.
-- **Simulation and Testing:** Includes testbenches for thorough verification of the processor via ModelSim.
+- **Simulation and Testing:** Includes testbenches for thorough verification of the processor via Questa/ModelSim.
 - **FPGA Deployment:** Configured to run on an FPGA development board (DE1-Soc).
 
 ## Supported Instructions
@@ -56,7 +56,4 @@ Utilizing modularization, the processor is designed in SystemVerilog and include
 - Enhance the processor design to support more complex instructions.
 - Implement pipelining for improved performance.
 - Expand the testbench coverage to include more edge cases and scenarios.
-
-## Contributors
-Steven Chen, Mir Ruwayd Afeef
 
